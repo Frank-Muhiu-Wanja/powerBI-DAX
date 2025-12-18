@@ -1,4 +1,7 @@
 # powerBI-Dax
+![](Screenshot0.png)
+
+---
 
 ![](Screenshot.png)
 
